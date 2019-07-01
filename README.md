@@ -43,7 +43,7 @@ bcrpyt incorporates a salt to protect against rainbow table attacks, an encrypti
 
 1. What are the three parts of the JSON Web Token?
 
-- Header, Payload, Signature 
+- Header, Payload, Signature
 
 ## Project Set Up
 
