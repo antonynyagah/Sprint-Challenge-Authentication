@@ -5,7 +5,7 @@ const tokenService = require("../auth/token-service.js");
 const { authenticate } = require('../auth/authenticate');
 
 const Users = require("./routes-model");
-const tokenService = require("../auth/token-service");
+
 
 module.exports = server => {
   server.post('/api/register', register);
